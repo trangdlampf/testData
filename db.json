@@ -22,7 +22,7 @@
   { "target": "powerpoint"  , "source": "pp_2", "strength": 0.7 },
   { "target": "johnson"   , "source": "williams" , "strength": 0.1 },
   { "target": "pp_1"  , "source": "info_A" , "strength": 0.1 },
-  { "target": "williams"   , "source": "info_B" , "strength": 0.1 },
+  { "target": "davis"   , "source": "info_B" , "strength": 0.1 },
   { "target": "smith"   , "source": "johnson" , "strength": 0.1 },
   { "target": "davis"   , "source": "info_A" , "strength": 0.1 },
   { "target": "pp_2"  , "source": "johnson" , "strength": 0.1 }
